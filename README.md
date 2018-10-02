@@ -14,3 +14,6 @@ with programmers and other users of Git.
 
 I see the shameless self advertising but I think it is justified when you are teaching something so useful.
 
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
+
